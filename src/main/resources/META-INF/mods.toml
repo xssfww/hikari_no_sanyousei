@@ -1,0 +1,38 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="hikari_no_sanyousei"
+version="1.0.8.5"
+displayName="Hikari no San-Yousei"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://space.bilibili.com/477927619"
+logoFile="logo.png"
+authors="日灼星穹（麟、油菜、春风月夜书）, MCreator, 松鼠式坦克（人物模型提供者）、SO3（LOGO绘制者）"
+description='''
+本Mod为东方Project二次创作，原作上海爱丽丝幻乐团、比良坂真琴。本mod添加了来自《东方project》系列中的《东方三月精》系列漫画中的三位主角：桑尼米尔克、露娜切露德、斯塔萨菲雅。今后的版本中将逐渐增加与这三位妖精有关的内容。
+'''
+
+[[dependencies.hikari_no_sanyousei]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.hikari_no_sanyousei]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.hikari_no_sanyousei]]
+    modId="geckolib3"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
