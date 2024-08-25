@@ -1,0 +1,181 @@
+{
+  "lunaogg": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:bark1",
+        "stream": false
+      }
+    ]
+  },
+  "spellcard": {
+    "category": "player",
+    "subtitle": "subtitles.spellcard",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:se_cat00",
+        "stream": false
+      }
+    ]
+  },
+  "spell_xuli": {
+    "category": "player",
+    "subtitle": "subtitles.spell_xuli",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:se_ch00",
+        "stream": false
+      }
+    ]
+  },
+  "laser_1": {
+    "category": "player",
+    "subtitle": "subtitles.laser_1",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:se_lazer00",
+        "stream": false
+      }
+    ]
+  },
+  "laser_2": {
+    "category": "player",
+    "subtitle": "subtitles.laser_2",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:se_lazer01",
+        "stream": false
+      }
+    ]
+  },
+  "bomb": {
+    "category": "player",
+    "subtitle": "subtitles.bomb",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:se_nep00",
+        "stream": false
+      }
+    ]
+  },
+  "damagu_1": {
+    "category": "player",
+    "subtitle": "subtitles.damagu_1",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:se_tan00",
+        "stream": false
+      }
+    ]
+  },
+  "damagu_2": {
+    "category": "player",
+    "subtitle": "subtitles.damagu_2",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:se_explode",
+        "stream": false
+      }
+    ]
+  },
+  "defnd": {
+    "category": "player",
+    "subtitle": "subtitles.defnd",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:defend",
+        "stream": false
+      }
+    ]
+  },
+  "defend_out": {
+    "category": "player",
+    "subtitle": "subtitles.defend_out",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:defend_out",
+        "stream": false
+      }
+    ]
+  },
+  "melee": {
+    "category": "player",
+    "subtitle": "subtitles.melee",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:melee",
+        "stream": false
+      }
+    ]
+  },
+  "melee1": {
+    "category": "player",
+    "subtitle": "subtitles.melee1",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:melee1",
+        "stream": false
+      }
+    ]
+  },
+  "melee2": {
+    "category": "player",
+    "subtitle": "subtitles.melee2",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:melee2",
+        "stream": false
+      }
+    ]
+  },
+  "melee3": {
+    "category": "player",
+    "subtitle": "subtitles.melee3",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:melee3",
+        "stream": false
+      }
+    ]
+  },
+  "melle_xuli": {
+    "category": "player",
+    "subtitle": "subtitles.melle_xuli",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:melee_xuli_1",
+        "stream": false
+      }
+    ]
+  },
+  "blade": {
+    "category": "player",
+    "subtitle": "subtitles.blade",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:swingblade",
+        "stream": false
+      }
+    ]
+  },
+  "xianshizhan": {
+    "category": "player",
+    "subtitle": "subtitles.xianshizhan",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:6cwo1-skx0m",
+        "stream": false
+      }
+    ]
+  },
+  "desk": {
+    "category": "block",
+    "subtitle": "subtitles.desk",
+    "sounds": [
+      {
+        "name": "hikari_no_sanyousei:desk",
+        "stream": false
+      }
+    ]
+  }
+}
