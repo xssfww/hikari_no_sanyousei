@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "hikari_no_sanyousei:items/the_volimetric_flask_which_full_of_failed_magic_power_potion"
+  }
+}

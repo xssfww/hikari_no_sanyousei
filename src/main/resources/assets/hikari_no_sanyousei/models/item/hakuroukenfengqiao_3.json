@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "hikari_no_sanyousei:items/hakurouken_fengqiao"
+  }
+}

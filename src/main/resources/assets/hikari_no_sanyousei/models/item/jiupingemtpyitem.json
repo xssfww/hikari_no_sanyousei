@@ -1,0 +1,7 @@
+{
+  "parent": "hikari_no_sanyousei:custom/jiuping",
+  "textures": {
+    "0": "hikari_no_sanyousei:blocks/jiuping",
+    "particle": "hikari_no_sanyousei:items/jiuping"
+  }
+}

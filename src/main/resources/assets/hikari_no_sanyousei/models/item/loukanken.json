@@ -1,0 +1,6 @@
+{
+  "parent": "hikari_no_sanyousei:displaysettings/loukanken.item.geo",
+  "textures": {
+    "layer0": "hikari_no_sanyousei:items/youmu"
+  }
+}
