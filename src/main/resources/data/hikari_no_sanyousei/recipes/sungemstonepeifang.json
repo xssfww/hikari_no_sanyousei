@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SIS",
+    "GDG",
+    "SIS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sunflower"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "G": {
+      "item": "hikari_no_sanyousei:garze"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:sungemstone",
+    "count": 1
+  }
+}

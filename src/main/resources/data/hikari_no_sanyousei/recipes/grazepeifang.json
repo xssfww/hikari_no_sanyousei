@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DID",
+    "IRI",
+    "DID"
+  ],
+  "key": {
+    "D": {
+      "item": "hikari_no_sanyousei:danmagu"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "R": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:garze",
+    "count": 1
+  }
+}

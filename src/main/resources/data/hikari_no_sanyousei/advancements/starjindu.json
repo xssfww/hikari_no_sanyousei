@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "hikari_no_sanyousei:stargemstone"
+    },
+    "title": {
+      "translate": "advancements.starjindu.title"
+    },
+    "description": {
+      "translate": "advancements.starjindu.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "starjindu": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "hikari_no_sanyousei:danmakujindu"
+}

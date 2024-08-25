@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CLC",
+    "DSD",
+    "CLC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "D": {
+      "item": "hikari_no_sanyousei:danmagu"
+    },
+    "S": {
+      "item": "hikari_no_sanyousei:spellcard_2"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:spellcardlunaticrain",
+    "count": 1
+  }
+}

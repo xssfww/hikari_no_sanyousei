@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GOS",
+    " T ",
+    "HEG"
+  ],
+  "key": {
+    "G": {
+      "item": "hikari_no_sanyousei:garze"
+    },
+    "O": {
+      "item": "minecraft:gold_nugget"
+    },
+    "S": {
+      "item": "minecraft:spruce_log"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    },
+    "H": {
+      "item": "minecraft:hay_block"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:magicbroom",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "hikari_no_sanyousei:danmagu"
+    },
+    "title": {
+      "translate": "advancements.danmakujindu.title"
+    },
+    "description": {
+      "translate": "advancements.danmakujindu.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "danmakujindu": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hikari_no_sanyousei:danmagu"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "hikari_no_sanyousei:sanyousei"
+}

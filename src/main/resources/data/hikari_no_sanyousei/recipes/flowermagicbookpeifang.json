@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:small_flowers"
+    },
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "result": {
+    "item": "patchouli:guide_book",
+    "nbt": 
+    {
+    "patchouli:book": "hikari_no_sanyousei:hikari_no_sanyousei_flower_magic_book"
+    },
+    "count": 1
+  }
+}

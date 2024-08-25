@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "INI",
+    "IRI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "N": {
+      "item": "minecraft:ink_sac"
+    },
+    "R": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:pen",
+    "count": 1
+  }
+}

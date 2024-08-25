@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hikari_no_sanyousei:err_potion"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "hikari_no_sanyousei:propertychangesreagents",
+    "count": 4
+  }
+}

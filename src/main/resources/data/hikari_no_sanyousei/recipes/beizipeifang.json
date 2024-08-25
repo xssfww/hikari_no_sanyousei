@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G G",
+    "GLG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "L": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:shavedicecupempty",
+    "count": 1
+  }
+}

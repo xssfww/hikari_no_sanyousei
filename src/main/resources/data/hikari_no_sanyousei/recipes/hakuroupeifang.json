@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  P",
+    " OG",
+    "IE "
+  ],
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "O": {
+      "item": "minecraft:oak_log"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "I": {
+      "item": "minecraft:iron_sword"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:hakuroukennew",
+    "count": 1
+  }
+}

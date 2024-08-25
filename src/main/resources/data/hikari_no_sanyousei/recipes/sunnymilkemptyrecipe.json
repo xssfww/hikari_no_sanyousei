@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "GPG",
+    " G "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:sunnymilkempty",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "hikari_no_sanyousei:lunagemstone"
+    },
+    "title": {
+      "translate": "advancements.lunajindu.title"
+    },
+    "description": {
+      "translate": "advancements.lunajindu.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "lunajindu": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "hikari_no_sanyousei:danmakujindu"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BLB",
+    "GSG",
+    "DLD"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "L": {
+      "item": "hikari_no_sanyousei:lasernorml"
+    },
+    "G": {
+      "item": "minecraft:gold_nugget"
+    },
+    "S": {
+      "item": "hikari_no_sanyousei:spellcard_3"
+    },
+    "D": {
+      "item": "hikari_no_sanyousei:danmagu"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:master_sparkspellcard",
+    "count": 1
+  }
+}

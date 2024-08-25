@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "hikari_no_sanyousei:sungemstone"
+    },
+    "title": {
+      "translate": "advancements.sunnyjindu.title"
+    },
+    "description": {
+      "translate": "advancements.sunnyjindu.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "sunnyjindu": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "hikari_no_sanyousei:danmakujindu"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DID",
+    " S ",
+    "GDG"
+  ],
+  "key": {
+    "D": {
+      "item": "hikari_no_sanyousei:danmagu"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "S": {
+      "item": "hikari_no_sanyousei:spellcard_2"
+    },
+    "G": {
+      "item": "hikari_no_sanyousei:garze"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:spellcard_fluttering_summer",
+    "count": 1
+  }
+}

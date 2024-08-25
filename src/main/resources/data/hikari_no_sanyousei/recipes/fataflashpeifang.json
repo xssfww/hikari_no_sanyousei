@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SIS",
+    "DPD",
+    "SIS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sunflower"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "D": {
+      "item": "hikari_no_sanyousei:danmagu"
+    },
+    "P": {
+      "item": "hikari_no_sanyousei:spellcard_2"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:spellcard_fatal_flash",
+    "count": 1
+  }
+}

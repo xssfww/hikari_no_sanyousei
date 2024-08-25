@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "hikari_no_sanyousei:stargemstone"
+    },
+    "title": {
+      "translate": "advancements.shiwanjindu.title"
+    },
+    "description": {
+      "translate": "advancements.shiwanjindu.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "shiwanjindu": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "hikari_no_sanyousei:sanyousei"
+}

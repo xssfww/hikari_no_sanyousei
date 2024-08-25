@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DID"
+  ],
+  "key": {
+    "D": {
+      "item": "hikari_no_sanyousei:danmagu"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:lasernorml",
+    "count": 1
+  }
+}

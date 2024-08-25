@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GIG",
+    "ADA",
+    "GIG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "A": {
+      "item": "hikari_no_sanyousei:garze"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:stargemstone",
+    "count": 1
+  }
+}

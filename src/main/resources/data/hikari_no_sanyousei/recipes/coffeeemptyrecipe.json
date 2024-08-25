@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CI",
+    "S "
+  ],
+  "key": {
+    "C": {
+      "item": "hikari_no_sanyousei:cupemptyitem"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "S": {
+      "item": "hikari_no_sanyousei:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:coffeeempty",
+    "count": 1
+  }
+}

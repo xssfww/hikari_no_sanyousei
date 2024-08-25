@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "hikari_no_sanyousei:spellcard_flashand_stripe"
+    },
+    "title": {
+      "translate": "advancements.pici_sc.title"
+    },
+    "description": {
+      "translate": "advancements.pici_sc.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "pici_sc": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "hikari_no_sanyousei:picijindu"
+}

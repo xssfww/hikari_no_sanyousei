@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "JC"
+  ],
+  "key": {
+    "J": {
+      "item": "hikari_no_sanyousei:jiupingitem"
+    },
+    "C": {
+      "item": "hikari_no_sanyousei:cupemptyitem"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:cupjiuitem",
+    "count": 1
+  }
+}

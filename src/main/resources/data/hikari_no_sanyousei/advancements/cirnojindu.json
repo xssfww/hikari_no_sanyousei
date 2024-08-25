@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "hikari_no_sanyousei:cirno_ice"
+    },
+    "title": {
+      "translate": "advancements.cirnojindu.title"
+    },
+    "description": {
+      "translate": "advancements.cirnojindu.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "cirnojindu": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "hikari_no_sanyousei:danmakujindu"
+}

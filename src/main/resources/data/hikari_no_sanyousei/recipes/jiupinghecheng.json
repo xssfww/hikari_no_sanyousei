@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hikari_no_sanyousei:jiupingemtpyitem"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+    "type":"forge:nbt",
+      "item": "minecraft:potion"
+      "nbt": {
+        "Potion":"minecraft:water"
+      }
+    }
+  ],
+  "result": {
+    "item": "hikari_no_sanyousei:jiupingitem",
+    "count": 1
+  }
+}

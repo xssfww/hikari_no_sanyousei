@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "PPP",
+    " P "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:poetry_raft_empty",
+    "count": 1
+  }
+}

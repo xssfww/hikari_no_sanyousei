@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GEG",
+    "LSL",
+    "TOT"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_nugget"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "L": {
+      "item": "hikari_no_sanyousei:lasernorml"
+    },
+    "S": {
+      "item": "hikari_no_sanyousei:spellcard_2"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "O": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:spellcardstarlaser",
+    "count": 1
+  }
+}

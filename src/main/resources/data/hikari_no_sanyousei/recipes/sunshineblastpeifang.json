@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GLG",
+    "SPS",
+    "GLG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_nugget"
+    },
+    "L": {
+      "item": "hikari_no_sanyousei:lasernorml"
+    },
+    "S": {
+      "item": "minecraft:sunflower"
+    },
+    "P": {
+      "item": "hikari_no_sanyousei:spellcard_2"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:spellcard_sunshine_blast",
+    "count": 1
+  }
+}

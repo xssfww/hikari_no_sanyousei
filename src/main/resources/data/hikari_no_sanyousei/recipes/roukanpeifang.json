@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  O",
+    "SOG",
+    "D  "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:oak_log"
+    },
+    "S": {
+      "tag": "minecraft:small_flowers"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "D": {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:loukanken",
+    "count": 1
+  }
+}

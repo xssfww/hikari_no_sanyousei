@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "hikari_no_sanyousei:spellcardlunaticrain"
+    },
+    "title": {
+      "translate": "advancements.lunaticrainjindu.title"
+    },
+    "description": {
+      "translate": "advancements.lunaticrainjindu.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "lunaticrainjindu": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "item": {
+          "items": [
+            "hikari_no_sanyousei:spellcardlunaticrain"
+          ],
+          "durability": {
+            "min": 0,
+            "max": 9
+          }
+        }
+      }
+    }
+  },
+  "parent": "hikari_no_sanyousei:lunajindu"
+}

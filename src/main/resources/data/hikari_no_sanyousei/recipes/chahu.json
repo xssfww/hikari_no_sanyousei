@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "CFC",
+    "LCL"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "C": {
+      "item": "minecraft:clay_ball"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "L": {
+      "item": "minecraft:clay"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:teacupemptyitem",
+    "count": 1
+  }
+}

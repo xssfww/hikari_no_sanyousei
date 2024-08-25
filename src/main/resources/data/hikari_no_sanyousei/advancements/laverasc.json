@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "hikari_no_sanyousei:spellcard_fluttering_summer"
+    },
+    "title": {
+      "translate": "advancements.laverasc.title"
+    },
+    "description": {
+      "translate": "advancements.laverasc.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "laverasc": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "hikari_no_sanyousei:laverajindu"
+}

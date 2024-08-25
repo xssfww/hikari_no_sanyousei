@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " MB",
+    "CLB",
+    "PS "
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:magma_cream"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "C": {
+      "item": "minecraft:coal_block"
+    },
+    "L": {
+      "item": "minecraft:blaze_rod"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:torchnewex",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D D",
+    " S ",
+    "D D"
+  ],
+  "key": {
+    "D": {
+      "item": "hikari_no_sanyousei:danmagu"
+    },
+    "S": {
+      "item": "hikari_no_sanyousei:spellcard_3"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:non_directional_laserspellcard",
+    "count": 1
+  }
+}

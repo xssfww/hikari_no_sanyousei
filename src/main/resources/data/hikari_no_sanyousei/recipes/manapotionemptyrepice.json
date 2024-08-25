@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "L L",
+    " A "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "L": {
+      "item": "minecraft:glass_pane"
+    },
+    "A": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:manapotionempty",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BDB",
+    "GSI",
+    "CDC"
+  ],
+  "key": {
+    "B": {
+      "item": "hikari_no_sanyousei:bloomingcherryblossombranches"
+    },
+    "D": {
+      "item": "hikari_no_sanyousei:danmagu"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "hikari_no_sanyousei:spellcard_2"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "hikari_no_sanyousei:cherryblossombranches"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:spellcard_surprise_spring",
+    "count": 1
+  }
+}

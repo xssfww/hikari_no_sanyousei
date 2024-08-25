@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "hikari_no_sanyousei:xianshizhanspellcard"
+    },
+    "title": {
+      "translate": "advancements.xianshzihan.title"
+    },
+    "description": {
+      "translate": "advancements.xianshzihan.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "xianshzihan": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "hikari_no_sanyousei:youmujindu"
+}

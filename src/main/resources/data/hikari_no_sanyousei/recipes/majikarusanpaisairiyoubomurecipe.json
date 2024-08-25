@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PEP",
+    "EME",
+    "PEP"
+  ],
+  "key": {
+    "P": {
+      "item": "hikari_no_sanyousei:propertychangesreagents"
+    },
+    "E": {
+      "item": "hikari_no_sanyousei:err_potion"
+    },
+    "M": {
+      "item": "hikari_no_sanyousei:mushroommana"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:majikaru_sanpaisairiyou_bomu",
+    "count": 4
+  }
+}

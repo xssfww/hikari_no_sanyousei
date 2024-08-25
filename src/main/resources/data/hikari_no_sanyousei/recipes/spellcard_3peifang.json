@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "ASA",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "hikari_no_sanyousei:garze"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "S": {
+      "item": "hikari_no_sanyousei:spellcard_2"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:spellcard_3",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SPS",
+    "BSB",
+    "EBE"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "P": {
+      "item": "hikari_no_sanyousei:propertychangesreagents"
+    },
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "E": {
+      "item": "hikari_no_sanyousei:err_potion"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:potionmixer",
+    "count": 1
+  }
+}

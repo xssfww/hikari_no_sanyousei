@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MPM",
+    "OSA",
+    "MNM"
+  ],
+  "key": {
+    "M": {
+      "item": "hikari_no_sanyousei:majikaru_sanpaisairiyou_bomu"
+    },
+    "P": {
+      "item": "hikari_no_sanyousei:propertychangesreagents"
+    },
+    "O": {
+      "item": "hikari_no_sanyousei:powerpotion"
+    },
+    "S": {
+      "item": "hikari_no_sanyousei:spellcard_3"
+    },
+    "A": {
+      "item": "hikari_no_sanyousei:mana_potion"
+    },
+    "N": {
+      "item": "hikari_no_sanyousei:manapowerpotion"
+    }
+  },
+  "result": {
+    "item": "hikari_no_sanyousei:earth_light_rayspellcard",
+    "count": 1
+  }
+}
