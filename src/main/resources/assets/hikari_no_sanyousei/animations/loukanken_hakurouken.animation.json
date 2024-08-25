@@ -1,0 +1,55 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"loukanken_chuqiao": {
+			"loop": true,
+			"bones": {
+				"Zhu_ti": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"armorBody": {
+					"scale": {
+						"vector": [0.7, 0.7, 0.7]
+					}
+				}
+			}
+		},
+		"hakurouken_chuqiao": {
+			"loop": true,
+			"bones": {
+				"Zhu_ti2": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"armorBody": {
+					"scale": {
+						"vector": [0.7, 0.7, 0.7]
+					}
+				}
+			}
+		},
+		"nidolu": {
+			"loop": true,
+			"bones": {
+				"Zhu_ti2": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"Zhu_ti": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"armorBody": {
+					"scale": {
+						"vector": [0.7, 0.7, 0.7]
+					}
+				}
+			}
+		}
+	}
+}

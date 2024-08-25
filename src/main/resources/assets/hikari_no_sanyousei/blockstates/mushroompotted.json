@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "hikari_no_sanyousei:block/mushroompotted"
+    },
+    "facing=east": {
+      "model": "hikari_no_sanyousei:block/mushroompotted",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "hikari_no_sanyousei:block/mushroompotted",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hikari_no_sanyousei:block/mushroompotted",
+      "y": 270
+    }
+  }
+}

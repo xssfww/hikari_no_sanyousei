@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "hikari_no_sanyousei:block/ehavedicecupblock"
+    },
+    "facing=east": {
+      "model": "hikari_no_sanyousei:block/ehavedicecupblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "hikari_no_sanyousei:block/ehavedicecupblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hikari_no_sanyousei:block/ehavedicecupblock",
+      "y": 270
+    }
+  }
+}
