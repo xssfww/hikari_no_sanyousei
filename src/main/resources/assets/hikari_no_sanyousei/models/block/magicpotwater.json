@@ -1,0 +1,9 @@
+{
+  "parent": "hikari_no_sanyousei:custom/magic_pot_water",
+  "textures": {
+    "all": "hikari_no_sanyousei:blocks/magic_pot",
+    "particle": "hikari_no_sanyousei:blocks/magic_pot",
+    "0": "hikari_no_sanyousei:blocks/magic_pot",
+    "1": "hikari_no_sanyousei:blocks/941"
+  }
+}
