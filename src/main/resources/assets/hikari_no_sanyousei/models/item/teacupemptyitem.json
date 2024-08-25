@@ -1,0 +1,7 @@
+{
+  "parent": "hikari_no_sanyousei:custom/tea_cup",
+  "textures": {
+    "0": "hikari_no_sanyousei:blocks/tea_cup",
+    "particle": "hikari_no_sanyousei:items/cup"
+  }
+}

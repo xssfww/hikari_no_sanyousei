@@ -1,0 +1,9 @@
+{
+  "parent": "hikari_no_sanyousei:custom/hakkero",
+  "textures": {
+    "0": "hikari_no_sanyousei:blocks/hakkero",
+    "1": "hikari_no_sanyousei:blocks/cup",
+    "2": "hikari_no_sanyousei:blocks/red_heart2",
+    "particle": "hikari_no_sanyousei:items/hakkero"
+  }
+}
