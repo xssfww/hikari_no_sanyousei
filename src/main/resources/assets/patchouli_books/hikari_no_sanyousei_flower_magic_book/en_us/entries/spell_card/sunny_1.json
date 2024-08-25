@@ -1,0 +1,20 @@
+{
+    "name": "Flickering Light 『Fatal Flash』",
+    "icon": "hikari_no_sanyousei:textures/items/fatalflash_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card", 
+    "read_by_default":"true",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcard_fatal_flash",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "text": "",
+            "recipe": "hikari_no_sanyousei:fataflashpeifang"
+        }
+
+    ]
+}

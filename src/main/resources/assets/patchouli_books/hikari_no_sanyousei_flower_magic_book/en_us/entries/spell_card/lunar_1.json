@@ -1,0 +1,20 @@
+{
+    "name": "Moon Sign 『Lunatic Rain』",
+    "icon": "hikari_no_sanyousei:textures/items/lunaticrain_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcardlunaticrain",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "text": "",
+            "recipe": "hikari_no_sanyousei:lunaticrailpeifang"
+        }
+
+    ]
+}

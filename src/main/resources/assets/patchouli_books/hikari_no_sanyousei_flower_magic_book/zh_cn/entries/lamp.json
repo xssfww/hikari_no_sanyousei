@@ -1,0 +1,20 @@
+{
+    "name": "荧光灯",
+    "icon": "hikari_no_sanyousei:textures/items/fluorescent_lamp.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 12,
+    "read_by_default":"true",
+    "pages": 
+    [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:fluorescentlamp",
+            "text":"$(star)斯塔：说起来这个荧光灯，露娜你是怎么找回来的啊？搬家的时候我都没看到过这个东西。$()$(br)$(lunar)露娜：有次我把荧光灯搞丢了，然后后面在香霖堂找回来了。店长还挺好心，记得这个是我们拿过来问过的就还给我了。$()$(br)$(sunny)桑尼：先别提这个，现在这个荧光灯怎么做到把这个东西（指按钮）一按下去就能亮的啊？$()$(br)$(star)斯塔：嗯...上次魔理沙小姐来我们家玩的时候，她看到了这个荧光灯。她好像还挺感兴趣的，我就把亮不了和香霖堂店长的话跟她说了。然后她就自己捣鼓了一下，做成了现在这样。$()$(br)$(lunar)露娜：还真得感谢魔理沙小姐啊。晚上出门时带上这个就不怕看不见路导致摔倒了。$()$(br)$(sunny)桑尼：竟然还想着防止摔倒，该说不愧是露娜吗。不过也好，晚上不好生火就用这个照明了。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:fluorescentlampoffrepice",
+            "text":"$(br)使用 雾雨 魔理沙 时手持荧光灯$(k:use)激活荧光灯。$(br)$(br)激活后的荧光灯$(k:use)使用短暂点亮身边。"
+        }
+    ]
+}

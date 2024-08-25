@@ -1,0 +1,20 @@
+{
+    "name": "月符 『Lunatic Rain』",
+    "icon": "hikari_no_sanyousei:textures/items/lunaticrain_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcardlunaticrain",
+            "text": "$(lunar)露娜:这可是我很得意的一张符卡。$()$(br)$(star)斯塔:无论是从射程，还是从杀伤力上，都挺强大的一张符卡。$()$(br)$(sunny)桑尼:你这个符卡有一个很大的漏洞啊，漏洞。$(br)$(lunar)露娜:什么漏洞?$()$(br)$(sunny)桑尼:万一，第一波攻击没打中，那敌人完全可以赶紧逃出到攻击范围以外啊，对吧?$()$(br)$(lunar)露娜:额，这个倒还真是...$()"
+        },
+        {
+            "type": "crafting",
+            "text": "仅$(lunar_2)露娜 切露德$()使用$(br)$(k:use)消耗使用后短暂蓄力，在附近延迟发射爆炸弹幕。",
+            "recipe": "hikari_no_sanyousei:lunaticrailpeifang"
+        }
+
+    ]
+}

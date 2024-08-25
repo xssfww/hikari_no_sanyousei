@@ -1,0 +1,19 @@
+{
+    "name": "月光 『Moon Stillness』",
+    "icon": "hikari_no_sanyousei:textures/items/moonstillness_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:sc_moonstillness",
+            "text": "$(lunar)露娜：这张符卡可是我最喜欢的一张！$()$(br)$(star)斯塔：虽然发射间隔时间比较长，但是胜在威力还行，且发射次数够多，容错率高。$()$(br)$(sunny)桑尼：的确佩服的。舍弃了发射快，转换为容错率高，而且每一发的威力都有提升。$()$(br)$(lunar)露娜：这可是我的绝技哦！发射间隔时间都用来给下一发攻击蓄力了。$()$(br)$(star)斯塔：嗯...就是比较难以全部命中而已。$()$(br)$(lunar)露娜：啊，全部命中本来就是个奢求。毕竟能打很多次，容错率高起来了嘛。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "仅$(lunar_2)露娜 切露德$()使用$(br)$(k:use)消耗使用将每隔一段时间使用激光轰击前方区域",
+            "recipe": "hikari_no_sanyousei:moonstillnesspeifang"
+        }
+    ]
+}

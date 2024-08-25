@@ -1,0 +1,20 @@
+{
+    "name": "冰块 『Cold Sprinkler』",
+    "icon": "hikari_no_sanyousei:textures/items/coldsprinkler_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:cold_sprinkler_spellcard",
+            "text": "$(sunny)桑尼：这张符卡，明明...$()$(br)$(lunar)露娜：蓄力时间好长...$()$(br)$(star)斯塔：而且威力比起我的「Star Laser」低好多...$()$(br)$(sunny)桑尼：这就是笨蛋的脑子吗？$()$(br)$(star)斯塔：嗯嗯，肯定是的。发射后还会因为用力过猛导致很难移动。$()$(br)$(lunar)露娜：看上去用力的方向完全不对啊。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "仅$(cirno)琪露诺$()使用$(br)$(k:use)消耗使用后短暂蓄力,再次右键将使用强力冰锥射向前方。",
+            "recipe": "hikari_no_sanyousei:coldsprinkerpeifang"
+        }
+
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "茶",
+    "icon": "minecraft:potion{Potion:'minecraft:water'}",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 5,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"茶",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:cupteaitem",
+            "text": "$(sunny)桑尼：啊，对了！每次看斯塔给茶壶加茶的时候只是往里面倒水，过一会儿后从茶壶里面倒出来的就是茶。这是什么原理啊？$()$(br)$(lunar)露娜：嗯...也许是斯塔在水里先加了茶叶？是河童培育的什么新品种茶叶吗，泡在水里就会看不到的那种？$()$(br)$(star)斯塔：都不对啦。这个茶壶里面有内置的茶叶格，水在可以自由通过茶叶格的，过一会儿就能泡成茶了。$()$(br)$(sunny)桑尼：哦哦，原来这样啊。$()$(br)$(lunar)露娜：嗯...茶叶这样循环用的话总有一天味道会淡的吧？$()$(br)$(star)斯塔：哎呀，真到那个时候我会换茶叶的啦。你们没注意到吗，茶壶底下有个开口，那里就是用来换茶叶的。$()$(br)$(lunar)露娜：不愧是斯塔啊，还能想到这种方法。这样的话喝茶可方便多了。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:chahu",
+            "text":"茶壶放下后，使用水桶添加水即可泡茶，$(br)因为自带茶叶格所以不用担心茶叶的问题,$(br)使用空杯子$(k:use)点击可以倒茶，$(br)$(br)享受那悠远的茶香吧。"
+        }
+    ]
+}

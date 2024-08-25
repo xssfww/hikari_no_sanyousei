@@ -1,0 +1,20 @@
+{
+    "name": "狱符 『Flash and Stripe』",
+    "icon": "hikari_no_sanyousei:textures/items/flashandstripe_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 12,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcard_flashand_stripe",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "text": "仅$(#d94dd1)克劳恩皮丝$()使用$(br)$(k:use)消耗使用。",
+            "recipe": "hikari_no_sanyousei:flashandstriperecipe"
+        }
+
+    ]
+}

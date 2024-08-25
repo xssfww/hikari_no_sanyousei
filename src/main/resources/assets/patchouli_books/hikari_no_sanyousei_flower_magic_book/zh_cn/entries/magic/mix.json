@@ -1,0 +1,25 @@
+{
+    "name": "药水混合",
+    "icon": "hikari_no_sanyousei:manapowerpotion",
+    "category": "hikari_no_sanyousei:using_magic",
+    "sortnum": 1,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"药水混合",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:manapowerpotion",
+            "text":"魔理沙：接下来就是混合了。$()$(br)$(lunar_2)露娜：听名字就知道是把两瓶不同药水混合成一瓶药水吧。$()$(br)$(sunny)桑尼：会有什么副作用吗？$()$(br)魔理沙：答案是，几乎没有！就连原来的药水效果都能得到保留。$()$(br)$(star)斯塔：这么神奇？果然魔法使就是不一样啊。$()$(br)魔理沙：另外，想得出合适的药水必须往容器里加入这种白色粉末，这样才能保留原来的效果。$()$(br)"
+        },
+        {
+            "type":"crafting",
+            "recipe": "hikari_no_sanyousei:potionmixerrepice",
+            "recipe2": "hikari_no_sanyousei:propertychangesreagentsrepice"
+        },
+        {
+            "type":"text",
+            "text":"$(br)将想要混合的药水放在两侧，消耗魔力结晶用于混合药水$(br)$(br)获得的药水将兼具两者的效果。"
+        
+        }
+    ]
+}

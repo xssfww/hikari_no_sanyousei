@@ -1,0 +1,20 @@
+{
+    "name": "Star Light 『Star Laser』",
+    "icon": "hikari_no_sanyousei:textures/items/starlaser_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcardstarlaser",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "text": "",
+            "recipe": "hikari_no_sanyousei:starlaserpeifang"
+        }
+
+    ]
+}

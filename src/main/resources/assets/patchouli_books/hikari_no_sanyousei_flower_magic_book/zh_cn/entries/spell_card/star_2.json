@@ -1,0 +1,21 @@
+{
+    "name": "星光 『Star Laser』",
+    "icon": "hikari_no_sanyousei:textures/items/starlaser_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcardstarlaser",
+            "text": "$(star)斯塔：哼哼哼，这张符卡可是——$()$(br)$(sunny)桑尼：拥有着我们能用的符卡当中威力最强大的，$()$(br)$(lunar)露娜：而且持续时间也非常长的，$()$(br)$(star)斯塔：星辰镭射！虽然只能发射一次的确很难办，但是我可以用能力来保证命中对吧？$()$(br)$(sunny)桑尼：究竟是怎么做到这么大的威力的...$()$(br)$(lunar)露娜：我也不知道啊，现在只能庆幸蓄力时间够长了。$()$(br)$(star)斯塔：这就是众星汇聚起来的力量啊。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "仅$(star)斯塔 萨菲雅$()使用$(br)$(k:use)消耗使用后短暂蓄力，再次右键将使用激光轰击前方区域。",
+            "recipe": "hikari_no_sanyousei:starlaserpeifang"
+        }
+
+    ]
+}

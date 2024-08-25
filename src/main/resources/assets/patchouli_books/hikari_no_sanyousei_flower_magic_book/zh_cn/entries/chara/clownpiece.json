@@ -1,0 +1,19 @@
+{
+    "name": "令人狂乱的地狱妖精",
+    "icon": "hikari_no_sanyousei:torchnew",
+    "category": "hikari_no_sanyousei:other_people",
+    "sortnum": 6,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"令人狂乱的地狱妖精",
+            "type": "text",
+            "text":"$(sunny)桑尼：最近好像没怎么见到皮丝了啊，是回地狱了吗？$()$(br)$(star)斯塔：不知道欸...不过记得她说她不能自己返回地狱，所以这个应该排除了。$()$(br)$(lunar)露娜：是平常都跑到别的地方了吧，每次行动都能和我们错开的那种。$()$(br)$(star)斯塔：这样吗...要不下回我用能力把皮丝找出来，一起行动？$()$(br)$(sunny)桑尼：这个点子不错啊！下回就这样办，有皮丝的能力一定会更好玩的！$()$(br)$(lunar)露娜：唉...我不管了啦...$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:torchnewexrecipe",
+            "text":"$(k:use)使用后选定$(br)$(l)$(#f6158f)    克劳恩 皮丝$()$(br)在空中按下$(k:hikari_no_sanyousei.flyonoff)键以开启飞行$(br)能力；使人发狂程度的能力按下$(k:hikari_no_sanyousei.abilitytolaunch)键以使用能力，将手中的火炬点亮。$(br)$(br)$(k:use)使用手中的火炬使周围的实体陷入狂乱。"
+        }
+    ]
+}

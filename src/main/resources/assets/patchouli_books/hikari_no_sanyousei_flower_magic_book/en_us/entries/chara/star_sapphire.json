@@ -1,0 +1,27 @@
+{
+    "name": "Showering Starlight",
+    "icon": "hikari_no_sanyousei:textures/items/stargemstone.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 2,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:stargemstone",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:stargemstonepeifang",
+            "text": ""
+        },
+        {
+            "type": "text",
+            "text": ""
+        },
+        {
+            "type": "text",
+            "text": ""
+        }
+    ]
+}

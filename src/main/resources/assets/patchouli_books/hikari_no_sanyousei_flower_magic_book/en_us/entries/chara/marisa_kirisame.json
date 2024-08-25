@@ -1,0 +1,28 @@
+{
+    "name": "Common Magician",
+    "icon": "hikari_no_sanyousei:textures/items/hakkero.png",
+    "category": "hikari_no_sanyousei:other_people",
+    "sortnum": 1,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"Common Magician",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:mini_hakeero",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "text": "",
+            "recipe": "hikari_no_sanyousei:minihakkeropeifang"
+        },
+        {
+            "type": "text",
+            "text": ""
+        },
+        {
+            "type": "text",
+            "text": ""
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "二级符卡",
+    "icon": "hikari_no_sanyousei:textures/items/spellcard_card.png",
+    "category": "hikari_no_sanyousei:spell_card", 
+   "read_by_default":"true",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcard_2",
+            "text": "$(sunny)桑尼：这就是能将固定形式的弹幕保存起来的符卡模板哦！$()$(br)$(lunar)露娜：如果要重复使用一种自己感觉很妙的弹幕的话就可以用这个来保存呢。$()$(br)$(star)斯塔：诶？那这样是不是可以照搬别人的强大符卡啊？$()$(br)$(lunar)露娜：不行的哦。别人的强大符卡一般都只和自己相配。弹幕的形式能展现出自己的属性。$()$(br)$(lunar)露娜：天底下挺难找到属性相同的人，所以一般都只能自己使用了。$()$(br)$(sunny)桑尼：况且，像我们这些妖精如果真用了那种强大的符卡，消耗吃不消的嘛。$()$(br)$(star)斯塔：嗯...我记得我好像看到过。$()$(br)$(star)斯塔：之前我们进红魔馆大图书馆偷书的时候，我好像看到有人使用了魔理沙小姐的「Non-Directional Laser」一样的攻击。$()$(br)$(sunny)桑尼：那个...说不定她们都是魔法使，属性相同很正常的吧？$()$(br)$(lunar)露娜：或许是这样，魔理沙小姐照搬了你所说的那位的攻击，改成了自己的「Non-Directional Laser」。$()$(br)$(star)斯塔：说来好像也是，之前在魔理沙小姐家里玩的时候她那本弹幕书里说这张符卡取自于谁的攻击来着。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "空的符卡基底,能封入固定形式的弹幕并重现出来。",
+            "recipe": "hikari_no_sanyousei:spellcard_2peifang"
+        }
+
+    ]
+}

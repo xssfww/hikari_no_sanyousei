@@ -1,0 +1,30 @@
+{
+    "name": "Shaved Ice",
+    "icon": "hikari_no_sanyousei:textures/items/shavedicecupsfull.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 7,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"刨冰",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:shavedicecupfull",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:paobingjipeifang",
+            "text": ""
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:shavedicecupfull",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:beizipeifang",
+            "text": ""
+        }
+    ]
+}

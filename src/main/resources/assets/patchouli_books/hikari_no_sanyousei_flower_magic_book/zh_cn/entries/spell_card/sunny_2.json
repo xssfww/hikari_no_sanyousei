@@ -1,0 +1,20 @@
+{
+    "name": "阳光 『Sunshine Blast』",
+    "icon": "hikari_no_sanyousei:textures/items/sunshineblast_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcard_sunshine_blast",
+            "text": "$(sunny)桑尼：这是我的镭射型代表符卡！$()$(br)$(lunar)露娜：极其迅速的镭射攻击，威力也够格。就是只能发射几次，如果没打中就惨了。$()$(br)$(star)斯塔：我倒挺好奇的。桑尼，为什么你的符卡发动时间那么短啊？$()$(br)$(sunny)桑尼：哼哼，挺好了。所谓弹幕对战，最重要的就是迅速！$()$(br)$(sunny)桑尼：万一对面冲到自己面前，你的符卡还没准备好，怎么办？$()$(br)$(star)斯塔：哦哦，听起来还蛮有道理的嘛。$()$(br)$(sunny)桑尼：所以发动时间够短，这样才能反应敌人突然的攻击！$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "仅$(sunny)桑尼 米尔克$()使用$(br)$(k:use)消耗使用后短暂蓄力，再次右键将暂时持续使用激光轰击前方区域。",
+            "recipe": "hikari_no_sanyousei:sunshineblastpeifang"
+        }
+
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Ice Cubes 『Cold Sprinkler』",
+    "icon": "hikari_no_sanyousei:textures/items/coldsprinkler_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:cold_sprinkler_spellcard",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "text": "",
+            "recipe": "hikari_no_sanyousei:coldsprinklerpeifang"
+        }
+
+    ]
+}

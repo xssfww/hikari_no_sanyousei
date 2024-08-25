@@ -1,0 +1,26 @@
+{
+    "name": "刨冰",
+    "icon": "hikari_no_sanyousei:textures/items/shavedicecupsfull.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 7,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"刨冰",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:shavedicecupfull",
+            "text": "$(sunny)桑尼：那个刨冰机，感觉好神奇啊。冰块放进去，再转动下上面的把手就能有又凉又甜的刨冰了。$()$(br)$(lunar)露娜：这个原理倒是挺简单。把手推动里面的装置把冰块磨碎。但是这个甜味又是哪里来的？琪露诺的冰不可能是甜的吧。$()$(br)$(star)斯塔：啊啊，我放了点糖水进去了的。$()$(br)$(sunny)桑尼：原来如此。斯塔还是挺擅长这方面的嘛。$()$(br)$(lunar)露娜：嗯...那么这个刨冰机是哪里来的呢？$()$(br)$(star)斯塔：是那个香霖堂的老板送我的啦。他说他不喜欢吃冰的东西，就送给我了。现在看来的话，这个东西好像还能磨很多东西的。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:paobingjipeifang",
+            "recipe2": "hikari_no_sanyousei:beizipeifang",
+            "text": ""
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:shavedicecupfull",
+            "text": "$(br)使用$(star)斯塔 萨菲雅$()时，主手持刨冰杯，副手持冰,对刨冰机$(k:use)可制作刨冰。$(br)$(br)夏日不可或缺的重要元素，饱含着来自$(star)斯塔$()的灿烂星光，可以从晶莹的冰粒中，$(br)一窥星河的璀璨。"
+        }
+    ]
+}

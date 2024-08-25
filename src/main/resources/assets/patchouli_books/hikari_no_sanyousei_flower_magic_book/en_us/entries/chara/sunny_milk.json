@@ -1,0 +1,28 @@
+{
+    "name": "Glimmering Sunlight",
+    "icon": "hikari_no_sanyousei:textures/items/sunnyemstone.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 0,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:sungemstone",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "text": "",
+            "recipe": "hikari_no_sanyousei:sungemstonepeifang"
+        },
+        {
+            "type": "text",
+            "text": ""
+        },
+        {
+            "type": "text",
+            "text": ""
+        }
+
+    ]
+}

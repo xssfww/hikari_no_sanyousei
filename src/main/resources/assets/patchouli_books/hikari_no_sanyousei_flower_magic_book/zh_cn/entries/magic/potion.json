@@ -1,0 +1,38 @@
+{
+    "name": "魔力炼药",
+    "icon": "hikari_no_sanyousei:powerpotion",
+    "category": "hikari_no_sanyousei:using_magic",
+    "sortnum": 0,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"药水酿造",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:powerpotion",
+            "text":"$(sunny)桑尼：这个玻璃瓶装的是什么啊？（摇晃了下手中的玻璃瓶）$()$(br)$(lunar_2)露娜：这口锅看起来不像是煮汤用的啊？$()$(br)$(star)斯塔：唔...原来平时看见的魔力蘑菇还有这种用途啊。$()$(br)魔理沙：喂喂，别乱动玻璃瓶啊。小心爆炸哦。$()$(br)$(lunar_2)露娜：那这口锅就是炼制药水的咯？$()$(br)魔理沙：魔法使的基本修养就是炼制药水。虽然药水其实谁都能炼制。你们想要的话我可以教你们哦。$()$(br)$(star)斯塔：哦哦！如果做出来了可以让料理变得更好吃的药水那就太棒了！$()$(br)$(sunny)桑尼：对哦，斯塔你总是能想到新奇的地方啊。$()$(br)"
+        },
+        {
+            "type":"crafting",
+            "recipe": "hikari_no_sanyousei:magicpotrepice",
+            "recipe2": "hikari_no_sanyousei:manapotionemptyrepice"
+        },
+        {
+            "type":"image",
+            "images": [
+                "hikari_no_sanyousei:textures/patchouli/magicpotgui.png"
+              ],
+              "texture_width":"170",
+              "texture_height":"155"
+        },
+        {
+            "type":"text",
+            "text":"炼药锅使用水桶$(k:use)加入水后才可进行炼制$(br)使用木炭或八卦炉作为燃料$(br)加入原料后点击按钮开始炼制$(br)$(br)上为魔力药水配方，下为火力药水配方$(br)$(br)魔力药水：魔法蘑菇*3，铁粒*1$(br)火力药水：普通弹幕*1，魔力蘑菇*2$(br)$(br)（有序合成）"
+        },
+        {
+            "title":"难免的失误",
+            "type": "spotlight",
+            "item":"hikari_no_sanyousei:err_potion",
+            "text":"$(br)因种种不可抗力因素而炼制失败的药剂,残留下珍贵魔力千万不能浪费。$(br)$(br)$(br)炼药时有时会获得的失败副产品，用于提取魔力结晶。"
+        }
+    ]
+}

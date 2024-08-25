@@ -1,0 +1,21 @@
+{
+    "name": "星符 『Shooting Sapphire』",
+    "icon": "hikari_no_sanyousei:textures/items/shootingsapphire_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcardshootingsapphire",
+            "text": "$(star)斯塔：终于到我的符卡了，这张可是我很喜欢的符卡哦。$()$(br)$(sunny)桑尼：拥有着长得过分的输出时间与完全没有的输出间隔...还好单发威力比较低。$()$(br)$(star)斯塔：这么说可不对哦。我的能力是探测生物，所以瞄准对于我来说完全不是难事。$()$(br)$(lunar)露娜：的确是这样，而且晚上的时候这个符卡挺好看的啊。$()$(br)$(star)斯塔：露娜也觉得很好看啊。发射出来的弹幕如同夜空中的流星一样，很美啊。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "仅$(star)斯塔 萨菲雅$()使用$(br)$(k:use)消耗使用后短暂蓄力，向前方发射弹幕。",
+            "recipe": "hikari_no_sanyousei:shootingsapphirepeifang"
+        }
+
+    ]
+}

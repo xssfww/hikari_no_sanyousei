@@ -1,0 +1,36 @@
+{
+    "name": "用餐时间",
+    "icon": "hikari_no_sanyousei:textures/items/chopsticks.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 4,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"杯子",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:cupemptyitem",
+            "text": "$(star)斯塔：每次洗露娜的杯子的时候都能闻到那种咖啡味呢。虽说咖啡虽好，但是要完全洗掉味还是有点麻烦呢。$()$(br)$(lunar)露娜：咖啡毕竟是我最喜欢喝的嘛，就跟你喜欢喝酒一样。$()$(br)$(sunny)桑尼：不过大家一起喝酒的时候很少看到斯塔喝醉呢，是喝得太少了吗？真狡猾。$()$(br)$(star)斯塔：啊啊，不是这样的啦！$()$(br)$(lunar)露娜：说起来也是啊，每次一起喝的时候斯塔喝的最少，真过分。$()$(br)$(sunny)桑尼：那么，作为惩罚，下次就让斯塔喝一整瓶酒好了，把之前的全补上！$()$(br)$(star)斯塔：呜，喝一整瓶酒什么的，人家喝不下啦，不要啊——$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:cuppeifang",
+            "text": "$(k:use)放置在地上，再此对其$(k:use)取回。$(br)$(br)虽然洗杯子很麻烦，但是拜托了红魔馆的女仆长小姐，所以完全不用担心会脏。"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:platepeifang",
+            "recipe2": "hikari_no_sanyousei:bowlrecipe",
+            "text": ""
+        },
+        {
+            "title":"筷子",
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:recipechosticks",
+            "text": "$(star)筷子和碗毫不意外是用餐的必需品。$(br)$(br)手持筷子$(k:use)享用料理。"
+        },
+        {
+            "type": "text",
+            "text": ""
+        }
+    ]
+}

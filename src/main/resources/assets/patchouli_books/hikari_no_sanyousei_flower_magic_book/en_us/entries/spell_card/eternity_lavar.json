@@ -1,0 +1,20 @@
+{
+    "name": "蝶符 『Fluttering Summer』",
+    "icon": "hikari_no_sanyousei:textures/items/flutteringsumme_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 11,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcard_fluttering_summer",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "text": "仅$(#809e26)爱塔妮缇拉尔瓦$()使用$(br)$(k:use)消耗使用。",
+            "recipe": "hikari_no_sanyousei:flutteringsummerrecipe"
+        }
+
+    ]
+}

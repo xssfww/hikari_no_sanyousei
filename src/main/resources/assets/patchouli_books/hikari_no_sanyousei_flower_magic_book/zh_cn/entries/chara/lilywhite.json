@@ -1,0 +1,26 @@
+{
+    "name": "运送春天的妖精",
+    "icon": "hikari_no_sanyousei:textures/items/han_bao_dai_fang_de_ying_hua_zhi_tiao_32.png",
+    "category": "hikari_no_sanyousei:other_people",
+    "sortnum": 4,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"报春精",
+            "type": "text",
+            "text":"$(lunar)露娜：虽然春告精的事情我已经听说过好几次了，但是...$()$(br)$(star)斯塔：“春告精经过的地方都会变成春天”，是这样没错吧？$()$(br)$(sunny)桑尼：以前都没见过的。竟然春告精是这样工作的，每次春天都得跑来跑去，肯定很辛苦吧。$()$(br)$(star)斯塔：肯定是很辛苦的，但看样子还挺乐在其中的，真是了不起啊。$()$(br)$(lunar)露娜：说起来...桑尼你好像很怕春告精啊？$()$(br)$(sunny)桑尼：上次没认出来春告精，想上去打招呼却被弹幕洗脸...我可不想再接近她了。$()$(br)"
+        },
+        {
+            "title":"满开的樱花枝",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:inserta_sunnymilkbottleintoabloomingcherryblossombranch",
+            "text": "$(#247653)妖梦$()修剪树叶留下的树枝，不知为何还残存着春的气息$(br)$(br)主手持空牛奶瓶，副手持樱花枝条,$(k:use)可将枝条放入瓶中。$(br)用妖精的力量使花盛开。$(br)$(br)$(k:use)将盛开的花取出。"
+        },
+        {
+            "title":"运送春天的妖精",
+            "type":"spotlight",
+            "item":"hikari_no_sanyousei:bloomingcherryblossombranches",
+            "text":"$(k:use)消耗使用以选择$(br)$(l)$(#ff88f0)     莉莉 霍瓦特$()$(br)在空中按下$(k:hikari_no_sanyousei.flyonoff)键以开启飞行$(br)$(br)能力：告知春天到来程度的能力$(br)$(br)按下$(k:hikari_no_sanyousei.abilitytolaunch)键以使用能力，宣告春天的到来，使万物生长。"
+        }
+    ]
+}

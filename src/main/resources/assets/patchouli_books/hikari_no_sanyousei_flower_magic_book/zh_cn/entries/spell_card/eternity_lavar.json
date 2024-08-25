@@ -1,0 +1,20 @@
+{
+    "name": "蝶符 『Fluttering Summer』",
+    "icon": "hikari_no_sanyousei:textures/items/flutteringsumme_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 11,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcard_fluttering_summer",
+            "text": "$(sunny)桑尼：拉尔瓦的那对翅膀真的是...怎么能那么大啊喂！$()$(br)$(lunar)露娜：追求翅膀大干什么？难不成是飞的时候更省力吗？$()$(br)$(star)斯塔：（妖精阅读中）$()$(br)$(sunny)桑尼：肯定的啊！翅膀越大，飞的时候就能扇动得更轻松了，扇一下能飞得更久呢。$()$(br)$(lunar)露娜：原来如此啊...桑尼，你看。（指向斯塔的翅膀）$()$(br)$(sunny)桑尼：嗯...斯塔的翅膀也很大，这是作弊行为啊！看我挠痒痒！$()$(br)$(star)斯塔：欸...好痒—— 别挠了别挠了，我生来就是这么大翅膀的——$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "仅$(#809e26)爱塔妮缇 拉尔瓦$()使用$(br)$(br)向前方播撒鳞粉$(br)$(k:use)消耗使用。",
+            "recipe": "hikari_no_sanyousei:flutteringsummerrecipe"
+        }
+
+    ]
+}

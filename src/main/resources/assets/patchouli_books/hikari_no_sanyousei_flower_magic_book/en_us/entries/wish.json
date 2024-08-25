@@ -1,0 +1,65 @@
+{
+    "name": "Wishes From Three Fairies",
+    "icon": "hikari_no_sanyousei:textures/items/poetryraft.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 3,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:poetry_raft_empty",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:poetryraftpeifang",
+            "text": ""
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:pen",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:penpeifang",
+            "text": ""
+        },
+        {
+            "type":"text",
+            "text":""
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:poetry_raftsun",
+            "text": ""
+        }, 
+       {
+            "type":"text",
+            "text":""
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:poetryraftluna",
+            "text": ""
+        }, 
+        {
+            "type":"text",
+            "text":""
+        },
+       {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:poetryraftstar",
+            "text": ""
+        }, 
+        {
+            "type":"text",
+            "text":""
+        },
+       {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:poetry_raft_star",
+            "text": ""
+        }
+    ]
+}

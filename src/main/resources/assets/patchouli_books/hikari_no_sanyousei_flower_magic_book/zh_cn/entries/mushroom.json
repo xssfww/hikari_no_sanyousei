@@ -1,0 +1,31 @@
+{
+    "name": "蘑菇盆栽",
+    "icon": "minecraft:flower_pot",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 8,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"蘑菇盆栽",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:mushroompottedempty",
+            "text": "$(sunny)桑尼：这个盆栽，以前是被那个藤蔓妖怪吃过一次吧？$()$(br)$(star)斯塔：呜...这个蘑菇盆栽挺稀有的，那次被吃过之后我废了好大劲才重新找到一个...$()$(br)$(lunar)露娜：这个蘑菇盆栽...有什么作用吗？$()$(br)$(star)斯塔：季节不适合采蘑菇的时候，就靠这个来吃蘑菇啦。味道还挺不错的，你们应该都吃过吧。$()$(br)$(lunar)露娜：看上去好神奇，其他蘑菇都长不好时就它长得好好的，味道还很不错。$()$(br)$(sunny)桑尼：说不定是我们是妖精的原因，让它好好生长了呢？$()$(br)$(star)斯塔：我每天有在跟它说话的，这样鼓励植物的话是可以让植物长得更好的哦。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:mushroompottedemptypeifang",
+            "recipe2": "hikari_no_sanyousei:purnerpeifang",
+            "text": ""
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:mushroompotted",
+            "text": "选择$(star)斯塔 萨菲雅$()时手持盆栽剪刀$(k:use)对盆栽进行修剪$(br)$(br)将盆栽放置在地上等待生长。"
+        },
+        {
+            "type":"spotlight",
+            "item":"hikari_no_sanyousei:mushroommana",
+            "text":"$(br)从盆栽中收获的奇异的蘑菇，其中富集的魔力会使直接食用它的人感到不适。$(br)$(br)其优异的魔力亲和力是制作魔法道具的绝佳原料。"
+        }
+    ]
+}

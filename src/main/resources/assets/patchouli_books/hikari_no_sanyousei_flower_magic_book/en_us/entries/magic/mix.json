@@ -1,0 +1,21 @@
+{
+    "name": "药水混合",
+    "icon": "hikari_no_sanyousei:manapowerpotion",
+    "category": "hikari_no_sanyousei:using_magic",
+    "sortnum": 1,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"药水混合",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:manapowerpotion",
+            "text":""
+        },
+        {
+            "type":"crafting",
+            "recipe": "hikari_no_sanyousei:potionmixerrepice",
+            "recipe2": "hikari_no_sanyousei:propertychangesreagentsrepice"
+        }
+
+    ]
+}

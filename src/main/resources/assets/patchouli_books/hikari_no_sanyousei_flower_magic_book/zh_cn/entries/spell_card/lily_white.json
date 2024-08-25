@@ -1,0 +1,20 @@
+{
+    "name": "春符 『Surprise Spring』",
+    "icon": "hikari_no_sanyousei:textures/items/surprisespring_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcard_surprise_spring",
+            "text": "$(sunny)桑尼：春告精的符卡...惊喜之春？这还真够“惊喜”的。$()$(br)$(lunar)露娜：突然蹦出来炸一下，还真很让人意想不到，硬要说的话可以和惊喜搭边就是了。$()$(br)$(star)斯塔：弹幕甚至也附带了“所到之处即为春天”的特性，不愧是春告精。$()$(br)$(sunny)桑尼：要不下次我们去找魔理沙小姐，让她帮我们抓住春告精，这样一来...$()$(br)$(lunar)露娜：就能有数不清的樱花瓣和楤木芽了！$()$(br)$(star)斯塔：对哦，可以做好多春天的料理欸！$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "仅$(#ffc1d9)莉莉 霍瓦特$()使用$(br)$(k:use)消耗使用，使用后为目光所及处带去惊喜之春。$(br)$(br)$(br)$(#ffc1d9)春————天————来————了————$()",
+            "recipe": "hikari_no_sanyousei:surprisespringrecipe"
+        }
+
+    ]
+}

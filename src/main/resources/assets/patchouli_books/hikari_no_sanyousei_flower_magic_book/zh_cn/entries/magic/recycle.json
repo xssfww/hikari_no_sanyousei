@@ -1,0 +1,20 @@
+{
+    "name": "再利用",
+    "icon": "hikari_no_sanyousei:err_potion",
+    "category": "hikari_no_sanyousei:using_magic",
+    "sortnum": 2,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"垃圾回收",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:err_potion",
+            "text":"$(sunny)桑尼：（指了指自己刚做出来的药水）这瓶药水怎么看着不太对劲？$()$(br)魔理沙：我看看哈...你这瓶是做报废了。放轻松，魔法都是要经过一次次的失败的。$()$(br)$(lunar_2)露娜：那对于这些报废的药水应该怎么处理呢？$()$(br)$(star)斯塔：里面好像还蕴含着些魔力，如果直接倒掉想必会对环境有所影响吧？$()$(br)魔理沙：你们猜猜，我拿出来的那些丢出去就爆炸的炸弹是从哪里来的？$()$(br)$(sunny)三$(lunar_2)妖$(star)精$()：这样的吗？$()$(br)"
+        },
+        {
+            "type":"crafting",
+            "recipe": "hikari_no_sanyousei:majikarusanpaisairiyoubomurecipe",
+            "text":"$(br)$(k:use)消耗掷出，引发爆炸$(br)$(br)不会影响地形"
+        }
+    ]
+}

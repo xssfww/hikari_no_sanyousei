@@ -1,0 +1,29 @@
+{
+    "name": "Ice Fairy of the Lake",
+    "icon": "hikari_no_sanyousei:textures/items/ice_cirno.png",
+    "category": "hikari_no_sanyousei:other_people",
+    "sortnum": 0,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"Ice Fairy of the Lake",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:crinozhaohuan",
+            "text": "$(star)斯塔：把几块冰放在一起就变成这样的东西了啊。$()$(br)$(sunny)桑尼：所以说绝对零度是多少度啊？$()$(br)$(star)斯塔：大概是绝对想象不出来的冷？$()$(br)$(lunar)露娜：嗯啊，那样的冷，恐怕人动都动不了了吧。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:crinopeifang",
+            "text": "似乎有着绝对想象不出的冰冷$(br)右键使用$(br)向传说中“最强”的妖精发起挑战？"
+        },
+        {
+            "type": "text",
+            "text": ""
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:cirno_ice",
+            "text": ""
+        }
+    ]
+}

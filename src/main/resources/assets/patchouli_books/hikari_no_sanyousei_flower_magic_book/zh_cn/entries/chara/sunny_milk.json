@@ -1,0 +1,24 @@
+{
+    "name": "闪耀的日光",
+    "icon": "hikari_no_sanyousei:textures/items/sunnyemstone.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 0,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(lunar)露娜：说起来，桑尼，为什么你在室内很少用能力来隐身啊？$()$(br)$(sunny)桑尼：笨啊？在室内折射光线的话周围的景象都会扭曲的，这样会变得很怪，自然就让人警惕起来了。$()$(br)$(lunar)露娜：这样啊。那你之前不是说什么，金红石折射根本就不在话下。金红石折射是什么啊？$()$(br)$(sunny)桑尼：啊，我也不知道，之前在香霖堂翻书看的时候看到了这个词，好像跟光线折射有关就说说看了。$()$(br)$(star)斯塔：说起来，桑尼，你的隐身对我而言是没用的哦。$()$(br)$(sunny)桑尼：诶诶？不会吧？$()$(br)$(star)斯塔：真笨啊，明明之前咱们刚遇到一块的时候你就试图开隐身来攻击我的。我的能力可是探测气息，这种让身影看不到的是没用的啦。$()$(br)"
+        },
+        {
+            "title":"桑尼 米尔克",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:sungemstone",
+            "text": "$(br)$(sunny)日光的妖精$()：$(br)在阳光下获得缓慢生命回复，白天在无雨露天环境获得速度，在雨天获得缓慢。$(br)$(br)能力：折射光线程度的能力$(br)按下$(k:hikari_no_sanyousei.abilitytolaunch)键以使用能力，$(br)能力效果：使自己持续隐身"
+        },
+        {
+            "type": "crafting",
+            "text": "  $(k:use)消耗以选择角色 $(br)$(br)     $(l)$(sunny)桑尼 米尔克$()$(br)$(br)  在空中按下$(k:hikari_no_sanyousei.flyonoff)键以开启飞行$(br)  按下$(k:hikari_no_sanyousei.abilitytolaunch)键以使用能力",
+            "recipe": "hikari_no_sanyousei:sungemstonepeifang"
+        }
+    ]
+}

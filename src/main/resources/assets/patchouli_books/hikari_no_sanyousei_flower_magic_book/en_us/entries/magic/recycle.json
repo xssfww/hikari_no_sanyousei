@@ -1,0 +1,20 @@
+{
+    "name": "再利用",
+    "icon": "hikari_no_sanyousei:err_potion",
+    "category": "hikari_no_sanyousei:using_magic",
+    "sortnum": 2,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"垃圾回收",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:err_potion",
+            "text":""
+        },
+        {
+            "type":"crafting",
+            "recipe": "hikari_no_sanyousei:majikarusanpaisairiyoubomurecipe",
+            "text":"$(b)$(k:use)消耗掷出，引发爆炸$(br)$(br)不会影响地形"
+        }
+    ]
+}

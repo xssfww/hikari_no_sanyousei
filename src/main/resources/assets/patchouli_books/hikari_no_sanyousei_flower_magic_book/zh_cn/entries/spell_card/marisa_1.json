@@ -1,0 +1,30 @@
+{
+    "name": "恋符 『Master Spark』",
+    "icon": "hikari_no_sanyousei:textures/items/masterspark_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 101,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:master_sparkspellcard",
+            "text": "$(sunny)桑尼：魔理沙小姐的「Master Spark」可以说是人尽皆知了啊。$()$(br)$(lunar)露娜：威力超大的同时蓄力时间又比较短...$()$(br)$(star)斯塔：还好还好，如果当时在魔法森林没有阻止魔理沙小姐开出来的话，想必我们都不在这里了吧。$()$(br)$(sunny)桑尼：魔法森林...魔理沙小姐有试过对我们使用这张符卡吗？$()$(br)$(lunar)露娜：好像没有。这张符卡总感觉和斯塔你的「Star Laser」有异曲同工之妙啊，都是长蓄力高威力。$()$(br)$(star)斯塔：就是魔理沙小姐的威力不知道高到哪里去了。$()$(br)$(star)斯塔：其实我还挺喜欢这张符卡的，激光发射时还会向周围发射星弹，感觉好美啊。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "仅 雾雨 魔理沙 使用,$(br)副手持符卡，主手持八卦炉$(k:use)消耗即可将述你八卦炉切换为MasterSpark模式并宣言MasterSpark，再次$(k:use)以发射。$(br)(请对着地面发射,若朝着没有障碍物的方向发射有崩溃的风险)",
+            "recipe": "hikari_no_sanyousei:mastersparkpeifang"
+        },
+        {
+            "type":"text",
+            "title":"Master Spark的创新用法！？",
+            "text":"$(star)斯塔：虽说是单纯依靠冲击的攻击，但依然强力啊。$()$(br)$(lunar)露娜：看上去就非常莽撞，这样真的没问题吗...$()$(br)$(sunny)桑尼：我更在意的是，这个到底怎么推进的啊？下次咱也试一试。$()$(br)$(star)斯塔：还是算了吧。好像是魔理沙小姐将八卦炉安装在扫帚后面，通过发射Master Spark的后坐力来推进。所以除了冲击，就是Master Spark的激光。此外，还会向后发射星星弹幕，看上去就像是划破夜空的流星一样。$()$(br)$(lunar)露娜：就像是化身为彗星一般的存在啊。魔理沙小姐就是，短暂的生命却闪耀着光辉，和彗星一样啊。$()$(br)$(sunny)桑尼：啊...这样吗，我还希望通过一点手段来复刻一下这个攻击，看来是无望了啊。$()$(br)"
+        },
+        {
+            "type":"spotlight",
+            "title":"「Blazing Star」",
+            "item":"hikari_no_sanyousei:magicbroom",
+            "text":"使用 雾雨 魔理沙 时，主手持魔法扫帚，副手持此符卡，物品栏中有迷你八卦炉，可$(k:use)使用以发动符卡进行冲刺。"
+        }
+    ]
+}

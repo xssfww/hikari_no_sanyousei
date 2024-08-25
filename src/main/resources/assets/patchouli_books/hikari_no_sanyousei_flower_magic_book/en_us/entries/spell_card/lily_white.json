@@ -1,0 +1,20 @@
+{
+    "name": "春符 『Surprise Spring』",
+    "icon": "hikari_no_sanyousei:textures/items/surprisespring_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcard_surprise_spring",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "text": "仅$(#ff88f0)莉莉霍瓦特$()使用$(br)$(k:use)消耗使用，使用后为目光所及处带去惊喜之春。$(br)$(br)$(br)$(#ff88f0)春————天————来————了————$()",
+            "recipe": "hikari_no_sanyousei:surprisespringrecipe"
+        }
+
+    ]
+}

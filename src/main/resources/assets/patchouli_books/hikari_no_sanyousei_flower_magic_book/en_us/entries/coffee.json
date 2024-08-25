@@ -1,0 +1,26 @@
+{
+    "name": "咖啡",
+    "icon": "hikari_no_sanyousei:textures/items/coffee.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 10,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"咖啡",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:coffee",
+            "text":"$(lunar)露娜：咖啡可是我的最爱啊。不仅很好喝，还有醒神的效用。$()$(br)$(sunny)桑尼：但是这味道是越来越苦了啊。最开始遇到你的时候给我喝的那杯咖啡还没像现在这样苦。$()$(br)$(star)斯塔：材料用得不一样了吧。我也觉得好苦，所以我们两个得加点牛奶才能喝进去。$()$(br)$(sunny)桑尼：牛奶还是要用注入了阳光的牛奶哦，更好喝的，很有阳光的气息。$()$(br)$(lunar)露娜：虽然加牛奶的也能喝，但是原来的风味就改变了啊。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:coffeeemptyrecipe",
+            "recipe2": "hikari_no_sanyousei:coffeerecipe"
+        },
+        {
+            "title":"加奶咖啡",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:coffeemilk",
+            "text":"$(br)主手持咖啡，副手持光明牛奶，使用$(k:use)将牛奶与阳光加入到咖啡中。$(br)$(br)仅$(lunar)露娜$()饮用未加奶咖啡时不会获得减益。"
+        }
+    ]
+}

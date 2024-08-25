@@ -1,0 +1,26 @@
+{
+    "name": "运送春天的妖精",
+    "icon": "hikari_no_sanyousei:textures/items/han_bao_dai_fang_de_ying_hua_zhi_tiao_32.png",
+    "category": "hikari_no_sanyousei:other_people",
+    "sortnum": 4,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"报春精",
+            "type": "text",
+            "text":""
+        },
+        {
+            "title":"满开的樱花枝",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:inserta_sunnymilkbottleintoabloomingcherryblossombranch",
+            "text": "使用$(#247653)魂魄 妖梦$()时使用白楼剑$(k:use)树叶，可获得待放的樱花枝条（不能用于种植）主手持空牛奶瓶，副手持樱花枝条,$(k:use)可将枝条放入瓶中。$(br)$(br)静待花开。"
+        },
+        {
+            "title":"运送春天的妖精",
+            "type":"spotlight",
+            "item":"hikari_no_sanyousei:bloomingcherryblossombranches",
+            "text":"$(#ff88f0)春————天————来————了————$()$(br)"
+        }
+    ]
+}

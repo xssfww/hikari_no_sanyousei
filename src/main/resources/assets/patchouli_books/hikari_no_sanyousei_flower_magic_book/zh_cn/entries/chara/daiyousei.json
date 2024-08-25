@@ -1,0 +1,19 @@
+{
+    "name": "大妖精",
+    "icon": "hikari_no_sanyousei:textures/items/daiyousei.png",
+    "category": "hikari_no_sanyousei:other_people",
+    "sortnum": 0,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "type":"text",
+            "title":"大妖精",
+            "text": "$(sunny)桑尼：有时候看到这些家伙真的挺烦的啊...$()$(br)$(star)斯塔：就是啊...本来想上去打招呼，一起来玩的...$()$(br)$(lunar)露娜：结果就什么都不说，直接打过来，真过分...$()$(br)$(sunny)桑尼：下次看到这家伙该怎么办？打还是跑？$()$(br)$(lunar)露娜：要不还是跑掉吧...斯塔，你看着点啊。$()$(br)$(star)斯塔：嗯，一感受到这家伙的气息我就说，我也不想被打...$()$(br)"
+        },
+        {
+            "type":"entity",
+            "entity":"hikari_no_sanyousei:daiyousei",
+            "text":"极稀少地在白天的平原群系生成。"
+        }
+    ]
+}

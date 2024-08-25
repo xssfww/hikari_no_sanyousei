@@ -1,0 +1,32 @@
+{
+    "name": "让人背后一凉的剑士小姐",
+    "icon": "hikari_no_sanyousei:textures/items/hakurouken.png",
+    "category": "hikari_no_sanyousei:other_people",
+    "sortnum": 3,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"冰凉的剑士小姐",
+            "type": "text",
+            "text":"$(star)斯塔：那位剑士小姐，旁边跟着的幽灵好像是她身体的一部分耶。听别人说，她好像是个半人半灵的种族。$()$(br)$(sunny)桑尼：半人半灵？那夏天的时候抱着她一定很凉快吧。$()$(br)$(lunar)露娜：先别提这个，那个幽灵是怎么回事啊？$()$(br)$(star)斯塔：好像是这样，那个幽灵是有实体的，是半人半灵种族的体现。温度比一般幽灵高，直接抚摸也不会被冻伤。$()$(br)$(sunny)桑尼：这么说的话还挺好的嘛，每到夏天就去找她，这可比那个笨蛋好使多了。$()$(br)$(lunar)露娜：先别提这个，幽灵直接窜我身上还是有点怕的...$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "",
+            "recipe": "hikari_no_sanyousei:roukanpeifang",
+            "recipe2": "hikari_no_sanyousei:hakuroupeifang"
+        },
+        {
+            "title":"魂魄 妖梦",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:roukanken",
+            "text": "主手持收鞘楼观剑，副手持收鞘白楼剑，$(k:use)以选择角色————$(#247653)$(l)魂魄 妖梦$()$(br)在空中按下$(k:hikari_no_sanyousei.flyonoff)键以开启飞行$(br)副手持收鞘剑，主手空置时$(k:use)将剑拔出，副手持鞘主手持剑时shift+$(k:use)将剑收回$(br)能力：使用剑术程度的能力$(br)按下$(k:hikari_no_sanyousei.abilitytolaunch)键以使用能力$(br)能力效果：$(br)为拔出的白楼剑短暂增加对亡灵生物的伤害$(br)为拔出的楼观剑极短暂大幅增加伤害$(br)"
+        },
+        {
+            "title":"魂魄 妖梦",    
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:cherryblossombranches",
+            "text":"$(br)冲刺劈砍：手持收鞘楼观剑shift+$(k:use)，在拔出的同时向前突刺。$(br)$(br)二刀流剑士：主手持收鞘白楼剑，副手持收鞘楼观剑，$(k:use)将两把刀同时拔出，并提高伤害。$(br)$(br)白玉楼的园丁：使用白楼剑$(br)对树叶进行修剪，并有概率掉落樱花枝条与蛹。$(br)"
+        }
+    ]
+}

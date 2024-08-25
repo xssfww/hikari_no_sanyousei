@@ -1,0 +1,20 @@
+{
+    "name": "光明牛奶",
+    "icon": "hikari_no_sanyousei:textures/items/milk_full.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 9,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"光明牛奶",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:sunnymilk",
+            "text": "$(star)斯塔：说起来，露娜还捡过一个牛奶瓶呢。$()$(br)$(lunar)露娜：是啊，记得当时还用来插樱花枝了。$()$(br)$(sunny)桑尼：不知道为什么，感觉和阳光很合得来就直接这样了。说起来这个牛奶嘛...$(star)斯塔：是你唷，桑尼。你看，你是桑尼米尔克（$(l)$(sunny)Sunny milk$()$(star)），那么去掉阳光的话你就是牛奶（$(l)$(sunny)milk$()$(star)）了。$()$(br)$(sunny)桑尼：啊？这...这个...$()$(br)$(lunar)露娜：同音啊，记得桑尼之前也拿这个捉弄过我。我是露娜切露德（$(l)Luna Child$()$(lunar)），也就是所谓小孩子（$(l)Child$(lunar)）。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:sunnymilkemptyrecipe",
+            "text": ""
+        }
+    ]
+}

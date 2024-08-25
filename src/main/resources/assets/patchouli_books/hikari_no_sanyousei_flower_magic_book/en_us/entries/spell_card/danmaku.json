@@ -1,0 +1,39 @@
+{
+    "name": "弹幕作战能力",
+    "icon": "hikari_no_sanyousei:textures/items/laser.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "sortnum": 0,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:danmagu",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:danmagupeifang",
+            "text": "可多次发射的环保型弹幕，右键以持续发射$(br)每击造成3颗心的伤害"
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:laser",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:laserpeifang",
+            "text": "可多次发射的环保型弹幕，松开右键时一道激光$(br)伤害...是个谜"
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:garze",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:garzepeifang",
+            "text": "可多次发射的环保型弹幕，右键以持续发射$(br)每击造成3颗心的伤害"
+        }
+    ]
+}

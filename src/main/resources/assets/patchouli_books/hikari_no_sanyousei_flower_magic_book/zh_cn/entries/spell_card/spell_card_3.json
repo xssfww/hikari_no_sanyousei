@@ -1,0 +1,20 @@
+{
+    "name": "三级符卡",
+    "icon": "hikari_no_sanyousei:textures/items/spellcard_3.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 100,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcard_3",
+            "text": "$(sunny)桑尼：来到三级符卡了啊。$()$(br)$(lunar)露娜：三级符卡能保存比二级符卡更为强大的弹幕。因此有很多人的成名技都是三级符卡。$()$(br)$(star)斯塔：虽然我们因为太弱而导致一张三级符卡都没有呢~$()$(br)$(lunar)露娜：不要就这样说出来啊喂。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "空的符卡基底,能封入固定形式的略为强力的弹幕并重现出来。",
+            "recipe": "hikari_no_sanyousei:spellcard_3peifang"
+        }
+
+    ]
+}

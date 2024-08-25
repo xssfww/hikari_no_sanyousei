@@ -1,0 +1,20 @@
+{
+    "name": "瞬光 『Fatal Flash』",
+    "icon": "hikari_no_sanyousei:textures/items/fatalflash_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:spellcard_fatal_flash",
+            "text": "$(sunny)桑尼：这是我的代表性符卡之一！$()$(br)$(star)斯塔：拥有着快到令人发指的蓄力时间，而且威力也挺够格的。$()$(br)$(lunar)露娜：就是射程很短，整体威力也低。$()$(br)$(sunny)桑尼：露娜，你故意找茬是吧？$()$(br)$(lunar)露娜：没有啊？我只是在分析一下你这张符卡的缺点。$()$(br)$(star)斯塔：按我来说的话，把射程拉远一下就行了吧？$()$(br)$(sunny)桑尼：想提高射程没那么容易的吧...$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "仅$(sunny)桑尼 米尔克$()使用$(br)$(k:use)消耗使用后短暂蓄力，在周围炸裂出火花",
+            "recipe": "hikari_no_sanyousei:fataflashpeifang"
+        }
+
+    ]
+}

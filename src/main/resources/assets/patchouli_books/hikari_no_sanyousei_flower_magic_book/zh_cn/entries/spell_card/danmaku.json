@@ -1,0 +1,39 @@
+{
+    "name": "弹幕作战能力",
+    "icon": "hikari_no_sanyousei:textures/items/laser.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "sortnum": 0,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:danmagu",
+            "text": "$(sunny)桑尼：幻想乡必备的手段果然还得是弹幕啊。$()$(br)$(lunar)露娜：虽然不是很想发生战斗，但万一发生了还得靠这个来拖延敌人的步伐，赶紧跑掉呢。$()$(br)$(star)斯塔：桑尼，你不是能让一些东西变得看不见吗？那你为什么不去将弹幕变得看不见呢？$()$(br)$(sunny)桑尼：唔...好主意，下次试试？$()$(br)$(lunar)露娜：还是算了吧。一来这样貌似违反了弹幕规则，二来敌人都看不到了，怎么起到拖延步伐的作用嘛。而且，隐身的话你看得见吗？$()$(br)$(star)斯塔：我倒是没问题啦。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:danmagupeifang",
+            "text": "可多次发射的环保型弹幕，$(k:use)以持续发射$(br)每击造成少量伤害"
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:laser",
+            "text": "$(lunar)露娜：说起来，上次和那个大妖怪打的时候，桑尼你好像把她的光弹给折射掉了诶。$()$(br)$(sunny)桑尼：哼哼，这可是我的看家本领啊。$()$(br)$(star)斯塔：呜，你也不帮下不会折射光线的我们。我们被打得可惨了。$()$(br)$(sunny)桑尼：啊...当时还想着阻止她发射光弹的...$()$(br)$(lunar)露娜：激光和光弹...看起来好像啊，但是为什么桑尼就不能把激光给折射走呢？$()$(br)$(star)斯塔：也许是因为激光是由无数个光弹构成的，同时有一股强大的力量确保轨道不会偏移？$()$(br)$(sunny)桑尼：不知道啊...$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:laserpeifang",
+            "text": "可多次发射的环保型弹幕，按下$(k:use)消耗后松开时发射一道激光，$(br)可造成较大伤害。"
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:garze",
+            "text": "$(star)斯塔：哦哦，这个超好用的！$()$(br)$(lunar)露娜：对你来说当然好用了...$()$(br)$(sunny)桑尼：就是，每次遇到危险，你都是赶紧用这个跑掉的。$()$(br)$(star)斯塔：已经解释过了啦，本来想提醒你们的但是危险来得太快，来不及提醒所以只能先跑掉了。$()$(br)$(lunar)露娜：下次要不我们把斯塔的脚给缚住？这样就不会乱跑了呢。$()$(br)$(sunny)桑尼：好点子，下次就这么办吧。哼哼哼。$()$(br)$(star)斯塔：呜...不要啊——$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:grazepeifang",
+            "text": "$(k:use)使用向当前运动方向加速一段时间，$(br)无限使用，可谓环保之至"
+        }
+    ]
+}

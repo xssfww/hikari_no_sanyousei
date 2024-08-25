@@ -1,0 +1,20 @@
+{
+    "name": "盛夏的凤蝶妖精",
+    "icon": "hikari_no_sanyousei:cacoon",
+    "category": "hikari_no_sanyousei:other_people",
+    "sortnum": 5,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"盛夏的凤蝶妖精",
+            "type": "text",
+            "text":"$(star)斯塔：上次办的灼热火焰祭完全成功啊。不过那个火焰消失、树木生长，到底是谁干的呢？$()$(br)$(lunar)露娜：想想就知道了。拉尔瓦她是代表夏日的凤蝶妖精，这样一来通过火焰放大生命力就行了。$()$(br)$(sunny)桑尼：欸，竟然还能办到这种事情啊。$()$(br)$(star)斯塔：我更在意的是，怎么通过火焰来放大生命力的。$()$(br)$(sunny)桑尼：那团火是皮丝放的对吧。地狱的火焰，按照皮丝的话来说可是很强大的。$()$(br)$(lunar)露娜：由躁动的生命力构成，所以将火焰作为介质来放大也不是难事...应该是这样吧。$()$(br)"
+        },
+        {
+            "title":"茧",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:cacoon",
+            "text": "$(k:use)使用后选定$(br)$(#809e26)  爱塔妮缇拉尔瓦$()$(br)在空中按下$(k:hikari_no_sanyousei.flyonoff)键以开启飞行$(br)能力；播撒鳞粉程度的能力$(br)按下$(k:hikari_no_sanyousei.abilitytolaunch)键以使用能力$(br)能力效果：引导手中的点燃火炬中的生命力，为周围的实体带来生命的活力。"
+        }
+    ]
+}

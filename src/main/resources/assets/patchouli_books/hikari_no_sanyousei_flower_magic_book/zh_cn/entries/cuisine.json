@@ -1,0 +1,27 @@
+{
+    "name": "斯塔萨菲雅的完美烹饪教室",
+    "icon": "hikari_no_sanyousei:textures/items/chopsticks.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 11,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"斯塔萨菲雅的完美烹饪教室",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:sanyouseistove",
+            "text": "$(star)将锅放置在灶台上，右键揭开盖子使用水桶注水。注水后盖上盖子后就可以把食材放进去了。$(br)$(br)向灶台中添加燃料后即可开始烹饪。$(br)$(br)双手持棉布手套$(k:use)可移动锅，主手持棉布手套$(k:use)打开锅盖，使用碗$(k:use)将料理盛出。"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:stovepeifang",
+            "recipe2": "hikari_no_sanyousei:panyougainoitempeifang",
+            "text": ""
+        },
+        {
+			"title":"水饺",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:blowshuijiao",
+            "text": "$(br)有序合成$(br)$(br)第一格:小麦*12$(br)第二格:猪肉*3"
+        }
+    ]
+}

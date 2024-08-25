@@ -1,0 +1,25 @@
+{
+    "name": "麦酿酒",
+    "icon": "minecraft:potion{Potion:'minecraft:water'}",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 6,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"麦酿酒",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:cupjiuitem",
+            "text":"$(lunar)露娜：嗯...斯塔，上次参加宴会时你做的那个盐腌樱花瓣还留着在吗？$()$(br)$(star)斯塔：倒是还留着一点。不过都这个季节了，樱花瓣还没多少呢。$()$(br)$(sunny)桑尼：说起来，这个酒是从哪里搞来的啊？$()$(br)$(star)斯塔：一般在家里喝的酒都是我自己酿的，到外面带着的酒都是从人里那边用点小手段带回来的。$()$(br)$(lunar)露娜：诶？从人里？怎么办到的啊？桑尼和我都不知道这事，只有一个人的话很难搞吧？$()$(br)$(star)斯塔：嘛嘛，人里那个居酒屋最近聚集了好多妖怪。我趁着快打烊的时候从那里买的，被妖怪看到的话会很麻烦呢。$()$(br)$(sunny)桑尼：然后你自己酿的酒...就是这个？怪不得一股麦子的气味，你是用从人里那边捡来的麦子酿的吧？$()$(br)$(star)斯塔：桑尼也难得有猜对的时候嘛。这些麦子是我在去人里的路上，看到麦田没什么人就偷偷摘了点下来。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:jiu",
+            "recipe2": "hikari_no_sanyousei:jiupinghecheng"
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:cupjiuitem",
+            "text": "将装有酒的酒瓶放置在地上后，$(br)手持杯子右键将酒盛出，$(br)空酒瓶使用$(k:use)点击回收$(br)$(br)$(br)『饮酒须待二十岁$(br)  遵守者方得以乐享其美味』"
+        }
+    ]
+}

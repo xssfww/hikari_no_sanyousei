@@ -1,0 +1,34 @@
+{
+    "name": "普通的魔法使小姐",
+    "icon": "hikari_no_sanyousei:mini_hakeero",
+    "category": "hikari_no_sanyousei:other_people",
+    "sortnum": 2,
+    "read_by_default":"true",
+    "pages": [        
+        {
+            "title":"普通的魔法使小姐",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:mini_hakeero",
+            "text": "$(br)经验等级30级以上后，可手持迷你八卦炉$(k:use)选择角色$()$(br)   雾雨 魔理沙$(br)在空中按下$(k:hikari_no_sanyousei.flyonoff)键以开启飞行$(br)按下$(k:hikari_no_sanyousei.abilitytolaunch)键以使用能力，$(br)$(br)能力：使用魔法程度的能力$(br)$(br)能力效果:手持八卦炉使用能力为八卦炉恢复魔力。"
+        },
+        {
+            "type": "text",
+            "text":"$(sunny)桑尼：啊，记得上次和琪露诺打完后，魔理沙小姐仅仅用个会发光的棒子就把琪露诺耍得团团转啊。$()$(br)$(lunar)露娜：这就是实力的差距啊。魔理沙小姐在幻想乡里也算很强的了，好多妖怪都打不过她啊。$()$(br)$(star)斯塔：诶...那个会发光的棒子...会发光诶，神奇啊。$()$(br)$(sunny)桑尼：说起来好像是这样。之前露娜捡到的那个荧光灯说是也能发光来着。$()$(br)$(lunar)露娜：可惜那个荧光灯没亮过啊。魔理沙小姐是用什么魔法来驱动的吗？$()$(br)$(star)斯塔：也许和她的八卦炉有什么相似之处。不过八卦炉好像还挺厉害的，除了发射那些激光攻击，之前我看到魔理沙小姐还用八卦炉拟态出星象来研究。$()$(br)$(lunar)露娜：之前看魔理沙小姐在烧火的时候，好像用八卦炉对着木料一照就起火了。这么方便的东西我也想要啊。$()$(br)$(sunny)桑尼：既然你那么想要那你就去偷吧。我可不会跟着你一起去的哦。$()$(br)$(star)斯塔：嗯嗯，我也不去。$()$(br)$(lunar)露娜：谁说要去偷的了...$()"
+        },
+        {
+            "type": "crafting",
+            "text": "迷你八卦炉：使用 雾雨 魔理沙 时，副手持原料，主手持八卦炉$(k:use)消耗魔力以熔炼物品，兼容熔炉配方。",
+            "recipe": "hikari_no_sanyousei:minihakkeropeifang"
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:magicbroom",
+            "text":"$(star)斯塔：这把扫帚看起来虽然普通，但好像能感到魔力呢。$()$(br)$(lunar)露娜：魔理沙小姐使用久了，当然会让这把扫帚也沾染点魔力啊。$()$(br)$(sunny)桑尼：坐上这把扫帚看上去感觉还挺舒服的，就是感觉好像一不小心没坐稳就会掉下去，有点怕啊。$()$(br)$(lunar)露娜：看上去魔理沙小姐每次坐得都挺稳稳当当的，而且就算在空中乱晃都能稳稳坐着。应该是魔法。$()$(br)$(star)斯塔：你们说得我都好奇了呢。要不，下次和魔理沙小姐一起玩的时候，让魔理沙小姐带着我们坐坐这把扫帚？$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "魔法扫帚：使用 $(l)雾雨 魔理沙$() 时，主手持扫帚可获得速度增益。",
+            "recipe": "hikari_no_sanyousei:magicbroomrepice"
+        }
+    ]
+}

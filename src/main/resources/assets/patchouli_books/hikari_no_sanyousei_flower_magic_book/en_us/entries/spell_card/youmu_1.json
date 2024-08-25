@@ -1,0 +1,20 @@
+{
+    "name": "Human Sign 『Slash of Present』",
+    "icon": "hikari_no_sanyousei:textures/items/xianshizhan_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 9,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:xianshizhanspellcard",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "text": "",
+            "recipe": "hikari_no_sanyousei:xianshizhanpeifang"
+        }
+
+    ]
+}

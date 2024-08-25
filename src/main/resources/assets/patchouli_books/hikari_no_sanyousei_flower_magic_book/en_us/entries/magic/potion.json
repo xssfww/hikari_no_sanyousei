@@ -1,0 +1,28 @@
+{
+    "name": "魔力炼药",
+    "icon": "hikari_no_sanyousei:powerpotion",
+    "category": "hikari_no_sanyousei:using_magic",
+    "sortnum": 0,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"药水酿造",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:powerpotion",
+            "text":""
+        },
+        {
+            "type":"crafting",
+            "recipe": "hikari_no_sanyousei:magicpotrepice",
+            "recipe2": "hikari_no_sanyousei:manapotionemptyrepice"
+        },
+        {
+            "text":""
+        },
+        {
+            "type":"spotlight",
+            "item":"hikari_no_sanyousei:err_potion"
+        }
+
+    ]
+}

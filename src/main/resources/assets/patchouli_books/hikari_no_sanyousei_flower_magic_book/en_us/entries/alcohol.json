@@ -1,0 +1,28 @@
+{
+    "name": "Ale",
+    "icon": "minecraft:potion{Potion:'minecraft:water'}",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 6,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "type": "text",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:jiu",
+            "text": ""
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:cupjiuitem",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:jiupinghecheng",
+            "text": ""
+        }
+    ]
+}

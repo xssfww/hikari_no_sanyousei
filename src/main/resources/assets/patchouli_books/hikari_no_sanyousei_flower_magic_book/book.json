@@ -1,0 +1,16 @@
+{
+	"name": "item.hikari_no_sanyousei.flowermagicbook",
+	"landing_text": "尘封已久的书本啊，想起那时灿烂绽放的樱花，还得多谢魔理沙小姐的帮忙，让这个本子展现出新的生机和活力。妖精都是健忘症，记不下多少东西，希望能借这个小小的本子，留下属于我们（光之三妖精）的记忆。",
+	"version": 2,
+	"model":"hikari_no_sanyousei:flowermagicbook",
+	"creative_tab":"tabhikarisanyousei",
+	"macros": {
+        "$(sunny)": "$(#f24f3d)",
+        "$(lunar)": "$(#4f322c)",
+		"$(lunar_2)":"$(#feda32)",
+        "$(star)": "$(#237ae3)",
+		"$(cirno)":"$(#a2cce5)",
+		"$(marisa)":"$(#)"
+    }
+}
+

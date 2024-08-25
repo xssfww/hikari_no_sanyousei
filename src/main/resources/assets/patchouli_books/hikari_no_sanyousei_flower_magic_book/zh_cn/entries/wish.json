@@ -1,0 +1,46 @@
+{
+    "name": "日月星的祈愿",
+    "icon": "hikari_no_sanyousei:textures/items/poetryraft.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 3,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"日月星的祈愿",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:poetry_raft_empty",
+            "text": "$(sunny)桑尼：说起来，七夕的诗笺好像没几个实现了啊？$()$(br)$(lunar)露娜：好像是这样。是我们的愿望不够真挚？还是不够虔诚？$()$(br)$(star)斯塔：嗯...我的愿望实现过了的哦。$()$(br)$(sunny)桑尼：啊？实现了？怎么做到的？$()$(br)$(lunar)露娜：也许是斯塔对星星这些比较熟悉，还是说...$()$(br)$(star)斯塔：我可是星之妖精啊，星空对我可是有求必应的呢。上次七夕祭的云就是我驱散的哦。$()$(br)$(lunar)露娜：这么强啊...桑尼什么时候也能有求必应就好了，现在一连几天都没放晴啊。$()$(br)$(sunny)桑尼：喂喂，什么意思啊？我也想好好晒太阳啊。$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:poetryraftpeifang",
+            "recipe2": "hikari_no_sanyousei:penpeifang",
+            "text": ""
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:pen",
+            "text": "主手持笔，副手持空的诗笺，按下$(k:use)以制作愿望诗笺$()$(br)$(br)仅光之三妖精可以制作$()$(br)$(br)$(star)斯塔 萨菲雅$()可使用Shift+$(k:use)制作祝词"
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:poetry_raftsun",
+            "text": "“希望妖精变得最最伟大”$(br)$(sunny)桑尼 米尔克$()许下的愿望$(br)$(br)$(sunny)桑尼 米尔克$()可$(k:use)消耗使用，$(br)为范围内的妖精同伴添加力量效果"
+        },
+        { 
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:poetryraftluna",
+            "text": "“希望所有的食物都变得好吃”$(br)$(lunar_2)露娜 切露德$()许下的愿望$(br)$(br)$(lunar_2)露娜 切露德$()可$(k:use)消耗使用，$(br)为范围内的妖精同伴添加饱和效果"
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:poetryraftstar",
+            "text": "“世界和平 世界和平”$(br)$(star)斯塔 萨菲雅$()许下的愿望$(br)$(br)$(star)斯塔 萨菲雅$()可$(k:use)消耗使用，$(br)为范围内的妖精同伴添加伤害吸收，生命回复以及抗性提升效果"
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:poetry_raft_star",
+            "text": "“希望天空可以马上放晴”$(br)$(star)斯塔 萨菲雅$()为灿烂的星空许下的愿望$(br)$(br)$(star)斯塔 萨菲雅$()可在雨夜$(k:use)消耗使用，$(br)让灿烂的星河现出。"
+        }
+    ]
+}

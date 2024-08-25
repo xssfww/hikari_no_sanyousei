@@ -1,0 +1,28 @@
+{
+    "name": "Slient Moonlight",
+    "icon": "hikari_no_sanyousei:textures/items/lunargemstone.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 1,
+    "read_by_default":"true",
+    "pages": 
+    [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:lunagemstone",
+            "text": ""
+        },
+        {
+        "type": "crafting",
+        "text": "",
+        "recipe": "hikari_no_sanyousei:lunagemstonepeifang"
+        },
+        {
+            "type": "text",
+            "text": ""
+        },
+        {
+            "type": "text",
+            "text": ""
+        }
+    ]
+}

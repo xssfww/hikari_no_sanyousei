@@ -1,0 +1,20 @@
+{
+    "name": "人符 『现世斩』",
+    "icon": "hikari_no_sanyousei:textures/items/xianshizhan_spellcard.png",
+    "category": "hikari_no_sanyousei:spell_card",
+    "read_by_default":"true",
+    "sortnum": 9,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:xianshizhanspellcard",
+            "text": "$(sunny)桑尼：这个符卡是妖梦小姐的。感觉好强大！$()$(br)$(lunar)露娜：完全不知道妖梦是怎么从这里直接移动到哪里的，究竟是怎么做到的啊？$()$(br)$(star)斯塔：嗯...好像是，先蓄力一下，然后直接利用自己的速度冲出去进行拔刀斩...$()$(br)$(lunar)露娜：就这样？这么简单而有力？$()$(br)$(star)斯塔：没错的。妖梦小姐在使用这张卡的时候虽然快到看不到，但是我能探测到的。$()$(br)$(sunny)桑尼：果然我们还是太弱了啊...$()$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "仅$(#247653)魂魄 妖梦$()使用$(br)副手持收鞘楼观剑,$(k:use)消耗使用以向前方快速突刺攻击。",
+            "recipe": "hikari_no_sanyousei:xianshizhanpeifang"
+        }
+
+    ]
+}

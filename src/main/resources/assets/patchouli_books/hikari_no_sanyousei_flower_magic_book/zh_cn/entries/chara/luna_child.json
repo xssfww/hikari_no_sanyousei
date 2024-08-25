@@ -1,0 +1,25 @@
+{
+    "name": "静谧的月光",
+    "icon": "hikari_no_sanyousei:textures/items/lunargemstone.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 1,
+    "read_by_default":"true",
+    "pages": 
+    [
+        {
+            "type": "text",
+            "text": "$(sunny)桑尼：啊，说到露娜的静音，我想起来了。之前我刚遇到露娜的时候，因为她把声音消去了，所以各种打招呼她都听不见。$()$(br)$(lunar)露娜：就是这样才能安心读书对吧？$()$(br)$(star)斯塔：啊啦，如果一个人在外面静音的话想必会察觉不到危险的吧。$()$(br)$(sunny)桑尼：就是啊。所以我就直接推你了。没想到还推进水里了，诶嘿嘿。$()$(br)$(lunar)露娜：啊，这个，我还没找你算账呢！$()$(br)$(star)斯塔：行了行了，都多久的事情了，还计较这个啊。$()$(br)"
+        },
+        {
+            "title":"露娜 切露德",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:lunagemstone",
+            "text": "$(br)$(l)$(lunar_2)月光的妖精$()：$(br)在月光下获得缓慢生命回复，夜晚在无雨露天环境获得速度，在雨天获得缓慢。$(br)$(br)能力：消除声音程度的能力$(br)按下$(k:hikari_no_sanyousei.abilitytolaunch)键以使用能力，$(br)能力效果：使周围桑尼的隐身效果范围化$(br)"
+        },
+        {
+            "type": "crafting",
+            "text": "  $(k:use)消耗以选择角色 $(br)$(br)$(l)$(lunar_2)     露娜 切露德$()$(br)$(br)  在空中按下$(k:hikari_no_sanyousei.flyonoff)键以开启飞行$(br)  按下$(k:hikari_no_sanyousei.abilitytolaunch)键以使用能力",
+            "recipe": "hikari_no_sanyousei:lunagemstonepeifang"
+        }
+    ]
+}

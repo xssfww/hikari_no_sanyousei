@@ -1,0 +1,31 @@
+{
+    "name": "Perfect Cuisine Class Of Star Sapphire",
+    "icon": "hikari_no_sanyousei:textures/items/chopsticks.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 11,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"Stove",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:sanyouseistove",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:stovepeifang",
+            "text": ""
+        },
+        {
+			"title":"Pot",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:sanyouseipanyougai_noitem",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:panyougainoitempeifang",
+            "text": ""
+        }
+    ]
+}

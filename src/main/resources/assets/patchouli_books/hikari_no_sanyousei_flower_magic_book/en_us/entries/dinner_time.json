@@ -1,0 +1,53 @@
+{
+    "name": "Dinner Time",
+    "icon": "hikari_no_sanyousei:textures/items/chopsticks.png",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 4,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"Cup",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:cupemptyitem",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:cuppeifang",
+            "text": ""
+        },
+        {
+            "title":"Plate",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:sanyousei_plate",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:platepeifang",
+            "text": ""
+        },
+        {
+            "title":"Bowl",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:sanyouseibowlempty",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:bowlrecipe",
+            "text": ""
+        },
+        {
+            "title":"Chopsticks",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:chopsticks",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:recipechosticks",
+            "text": ""
+        }
+    ]
+}

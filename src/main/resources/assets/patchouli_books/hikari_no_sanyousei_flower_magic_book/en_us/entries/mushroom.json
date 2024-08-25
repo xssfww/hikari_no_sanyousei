@@ -1,0 +1,30 @@
+{
+    "name": "Planting Mushroom",
+    "icon": "minecraft:flower_pot",
+    "category": "hikari_no_sanyousei:three_fairies_of_light",
+    "sortnum": 8,
+    "read_by_default":"true",
+    "pages": [
+        {
+            "title":"Planting Mushroom",
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:mushroompottedempty",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:mushroompottedemptypeifang",
+            "text": ""
+        },
+        {
+            "type": "spotlight",
+            "item": "hikari_no_sanyousei:mushroompotted",
+            "text": ""
+        },
+        {
+            "type": "crafting",
+            "recipe": "hikari_no_sanyousei:purnerpeifang",
+            "text": ""
+        }
+    ]
+}
