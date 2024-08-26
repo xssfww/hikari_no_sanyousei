@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[40,)"
-license="Academic Free License v3.0"
+license="MIT"
 
 [[mods]]
 modId="hikari_no_sanyousei"
